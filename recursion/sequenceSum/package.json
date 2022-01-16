@@ -1,0 +1,8 @@
+{
+  "name": "sequenceSum",
+  "version": "1.0.0",
+  "description": "sequenceSum task from the hexlet",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
